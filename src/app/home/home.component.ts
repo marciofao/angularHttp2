@@ -21,6 +21,8 @@ import { HousingLocationComponent } from '../housing-location/housing-location.c
   `,
   styleUrls: ['./home.component.css']
 })
+
 export class HomeComponent {
+ title = 'homes';
 
 }
