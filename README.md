@@ -33,7 +33,7 @@
 ## App Demo
 
   <video width="320" height="240" controls>
-  <source src="app-demo.mp4" type="video/mp4">
+  <source src="https://github.com/marciofao/angularHttp2/raw/refs/heads/main/app-demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
