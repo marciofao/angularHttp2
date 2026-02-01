@@ -32,7 +32,7 @@
 
 ## App Demo
 
-
+[video demo ↗](app-demo.webm)
 ![App demonstration in video](app-demo.webp)
 
 
