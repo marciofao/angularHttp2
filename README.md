@@ -32,6 +32,6 @@
 
 ## App Demo
 
-![App demonstration in video](app-demo.webp)
+![App demonstration in video](app-demo.webm)
 
 
