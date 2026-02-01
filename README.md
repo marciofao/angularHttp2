@@ -1,7 +1,7 @@
 # Angular Homes App
 
 - Responsive UI
-- Angullar routing
+- Angular routing
 - Http requests to json server
 - Angular forms
 
