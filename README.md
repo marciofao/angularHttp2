@@ -32,7 +32,7 @@
 
 ## App Demo
 
-[video demo ↗](app-demo.webm)
+[video demo ↗](https://github.com/marciofao/angularHttp2/raw/refs/heads/main/app-demo.webm)
 ![App demonstration in video](app-demo.webp)
 
 
